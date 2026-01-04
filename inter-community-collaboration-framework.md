@@ -1,4 +1,4 @@
-# Inter Community Collaboration & Growth Framework
+# Python Bangladesh: Inter-Community Collaboration & Growth Framework
 
 This document outlines the shared vision, principles, and collaboration areas between **Python Bangladesh** and **like-minded technology communities**.  
 It serves as a mutual understanding to foster long-term collaboration, sustainability, and collective growth within the Python and open-source ecosystem in Bangladesh.
