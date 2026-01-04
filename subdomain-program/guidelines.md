@@ -64,3 +64,4 @@ All applications will be reviewed by the Python Bangladesh team. Approved commun
 
 - [Python Bangladesh Organization Code of Conduct](https://github.com/pythonbangladesh/public-docs/blob/main/code-of-conduct.md)  
 - [Sub-domain Management Concept](https://github.com/pythonbangladesh/public-docs/blob/main/subdomain-program/subdomain-management-concepts.md)  
+- [Pythonbd: Inter-community Collaboration and Growth Framework](https://github.com/pythonbangladesh/public-docs/blob/main/inter-community-collaboration-framework.md)  
